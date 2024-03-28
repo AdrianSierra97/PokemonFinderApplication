@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokemon Finder Application</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="show_pokemon">show pokemon</string>
+</resources>
